@@ -1,21 +1,19 @@
-# Embedded C Programming Examples with Continuous Integration and Code Quality
 
-# Seat Heating SYstem
+
+# Seat Heating System
 
 # Activity 1
-![ON](simulation/ON.png)
+![ON](https://github.com/dev1729/EmbeddedCActivity/blob/main/simulation/activity1.png)
 # Activity 2
-![ON](simulation/ON.png)
+![ON](https://github.com/dev1729/EmbeddedCActivity/blob/main/simulation/activity2.png)
 # Activity 3
-![ON](simulation/ON.png)
+![ON](https://github.com/dev1729/EmbeddedCActivity/blob/main/simulation/activity3.png)
 # Activity 4
-![ON](simulation/ON.png)
+![ON](https://github.com/dev1729/EmbeddedCActivity/blob/main/simulation/activity4.png)
 
 #### CI and Code Qualityy
 
 |Build|Cppcheck|Codacy|
 |:--:|:--:|:--:|
-|[![Compile-Linux](https://github.com/Bharathgopal/Emb-C/actions/workflows/Compile.yml/badge.svg)](https://github.com/Bharathgopal/Emb-C/actions/workflows/Compile.yml)|[![Cppcheck](https://github.com/Bharathgopal/Emb-C/actions/workflows/CodeQulaity.yml/badge.svg)](https://github.com/Bharathgopal/Emb-C/actions/workflows/CodeQulaity.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/643b7ca2b2dc4daba1e700c216bb87d9)](https://www.codacy.com/gh/Bharathgopal/Emb-C/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Bharathgopal/Emb-C&amp;utm_campaign=Badge_Grade)|
+|[![Compile-Linux](https://github.com/dev1729/EmbeddedCActivity/actions/workflows/Compile.yml/badge.svg)](https://github.com/dev1729/EmbeddedCActivity/actions/workflows/Compile.yml)|[![Cppcheck](https://github.com/dev1729/EmbeddedCActivity/actions/workflows/CodeQulaity.yml/badge.svg)](https://github.com/dev1729/EmbeddedCActivity/actions/workflows/CodeQulaity.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/9c2bed753b2d49e49816d133b2d2b4af)](https://www.codacy.com/gh/dev1729/EmbeddedCActivity/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=dev1729/EmbeddedCActivity&amp;utm_campaign=Badge_Grade)|
 
-## Wiki Documentation
-* System [SETUP](https://github.com/Bharathgopal/Emb-C/wiki)
