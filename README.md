@@ -9,7 +9,7 @@ change
 |:--:|:--:|
 |![ON](simulation/ON.png)|![OFF](simulation/OFF.png)|
 
-#### CI and Code Quality
+#### CI and Code Qualityy
 
 |Build|Cppcheck|Codacy|
 |:--:|:--:|:--:|
