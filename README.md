@@ -1,13 +1,15 @@
 # Embedded C Programming Examples with Continuous Integration and Code Quality
 
-# LED Blinking 
+# Seat Heating SYstem
 
-## In Action
-change
-
-|ON|OFF|
-|:--:|:--:|
-|![ON](simulation/ON.png)|![OFF](simulation/OFF.png)|
+# Activity 1
+![ON](simulation/ON.png)
+# Activity 2
+![ON](simulation/ON.png)
+# Activity 3
+![ON](simulation/ON.png)
+# Activity 4
+![ON](simulation/ON.png)
 
 #### CI and Code Qualityy
 

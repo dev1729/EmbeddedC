@@ -1,10 +1,13 @@
-PROJ_NAME = Blinky
+PROJ_NAME = SeatHeating
 
 BUILD_DIR = Build
 
 # All Source code files
 SRC = project_main.c\
-src/user_utils.c
+src/activity1.c\
+src/activity3.c\
+src/activity4.c\
+src/activity2.c\
 
 # All header file paths
 INC = -I inc
@@ -39,7 +42,7 @@ $(BUILD_DIR):
 # Create directory to store the built files
 	mkdir $(BUILD_DIR)
 
-analysis: $(SRC)
+analysis: $(SRC) 
 # Analyse the code using Cppcheck command line utility
 	cppcheck --enable=all $^
 
